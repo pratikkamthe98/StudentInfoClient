@@ -1,0 +1,27 @@
+<div class="page-content--bgf7">
+  <div class="page-content--bge5">
+    <div class="container">
+      <div class="login-wrap">
+        <div class="login-content">
+          <div class="login-logo">
+            <a href=""> <span>Employee Management</span></a>
+          </div>
+          <div class="login-form">
+            <div class="form-group">
+              <div class="row">
+                <ng2-smart-table
+                  [settings]="settings"
+                  [source]="employeesData"
+                  (deleteConfirm)="onConfirmDelete($event)"
+                  (createConfirm)="onItemCreated($event)"
+                  (editConfirm)="onItemEdited($event)"
+                >
+                </ng2-smart-table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

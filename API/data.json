@@ -1,0 +1,82 @@
+{
+  "students": [
+     {
+      "studentName": "Pratik",
+      "studentAge": "23",
+      "studentEmail": "pratik@gmail.com",
+      "studentCity": "Pune",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "studentName": "Raj",
+      "studentAge": 22,
+      "studentEmail": "raj@gmail.com",
+      "studentCity": "Mumbai"
+    },
+    {
+      "id": 3,
+      "studentName": "Rohan",
+      "studentAge": 23,
+      "studentEmail": "rohan@gmail.com",
+      "studentCity": "Chennai"
+    },
+    {
+      "id": 4,
+      "studentName": "Rutvij",
+      "studentAge": 25,
+      "studentEmail": "rutvij@gmail.com",
+      "studentCity": "Pune"
+    },
+    {
+      "id": 5,
+      "studentName": "Sujay",
+      "studentAge": 24,
+      "studentEmail": "sujay@gmail.com",
+      "studentCity": "Mumbai"
+    },
+    {
+      "id": 6,
+      "studentName": "Veer",
+      "studentAge": 23,
+      "studentEmail": "veer@gmail.com",
+      "studentCity": "Chennai"
+    },
+    {
+      "id": 7,
+      "studentName": "Jay",
+      "studentAge": 24,
+      "studentEmail": "jay@gmail.com",
+      "studentCity": "Mumbai"
+    },
+    {
+      "id": 8,
+      "studentName": "Rahul",
+      "studentAge": 21,
+      "studentEmail": "rahul@gmail.com",
+      "studentCity": "Pune"
+    },
+    {
+      "id": 9,
+      "studentName": "Karan",
+      "studentAge": 20,
+      "studentEmail": "karan@gmail.com",
+      "studentCity": "Pune"
+    },
+    {
+      "id": 10,
+      "studentName": "Ronak",
+      "studentAge": 24,
+      "studentEmail": "ronak@gmail.com",
+      "studentCity": "Mumbai"
+    },
+    {
+      "studentName": "Ram",
+      "studentAge": "21",
+      "studentEmail": "ram@gmail.com",
+      "studentCity": "Pune",
+      "id": 11
+    }
+   
+  ]
+}

@@ -1,0 +1,14 @@
+:host /deep/ ng2-smart-table tbody > tr > td {
+  text-align: left;
+}
+:host /deep/ ng2-smart-table {
+  width: 100%;
+}
+:host /deep/ ng2-smart-table thead > tr > th {
+  background-color: rgb(185, 185, 252);
+}
+
+button {
+  margin-right: 16px;
+  width: 200px;
+}  
